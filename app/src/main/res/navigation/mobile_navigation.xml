@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_market">
+
+    <fragment
+        android:id="@+id/navigation_market"
+        android:name="com.university.stockexchange.main_ui.market.MarketFragment"
+        android:label="@string/stock"
+        tools:layout="@layout/fragment_market" >
+        <argument
+            android:name="token_api"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_valet"
+        android:name="com.university.stockexchange.main_ui.wallet.WalletFragment"
+        android:label="@string/valet"
+        tools:layout="@layout/fragment_wallet" />
+
+    <fragment
+        android:id="@+id/navigation_more"
+        android:name="com.university.stockexchange.main_ui.account.MoreFragment"
+        android:label="@string/more"
+        tools:layout="@layout/fragment_more" />
+
+    <fragment
+        android:id="@+id/navigation_my_orders"
+        android:name="com.university.stockexchange.main_ui.my_order.MyOrders"
+        android:label="Moї ордери"
+        tools:layout="@layout/fragment_my_orders" />
+</navigation>

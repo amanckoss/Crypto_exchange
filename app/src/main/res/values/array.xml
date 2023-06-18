@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title">
+        <item>Apple</item>
+        <item>Microsoft</item>
+        <item>Facebook</item>
+        <item>Amazon</item>
+        <item>Amazon</item>
+        <item>Amazon</item>
+        <item>Amazon</item>
+        <item>Apple</item>
+        <item>Microsoft</item>
+        <item>Facebook</item>
+        <item>Amazon</item>
+    </string-array>
+    <string-array name="sellPrice">
+        <item>332.83</item>
+        <item>123.23</item>
+        <item>423.43</item>
+        <item>321.99</item>
+        <item>321.99</item>
+        <item>321.99</item>
+        <item>321.99</item>
+        <item>332.83</item>
+        <item>123.23</item>
+        <item>423.43</item>
+        <item>321.99</item>
+    </string-array>
+    <string-array name="buyPrice">
+        <item>335.89</item>
+        <item>128.43</item>
+        <item>441.73</item>
+        <item>328.37</item>
+        <item>328.37</item>
+        <item>328.37</item>
+        <item>328.37</item>
+        <item>335.89</item>
+        <item>128.43</item>
+        <item>441.73</item>
+        <item>328.37</item>
+    </string-array>
+
+</resources>

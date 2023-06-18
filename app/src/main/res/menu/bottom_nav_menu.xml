@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_market"
+        android:icon="@drawable/ic_market"
+        android:title="@string/stock"/>
+
+    <item
+        android:id="@+id/navigation_valet"
+        android:icon="@drawable/ic_account"
+        android:title="@string/valet"/>
+
+    <item
+        android:id="@+id/navigation_my_orders"
+        android:icon="@drawable/ic_my_orders"
+        android:title="Мої ордери"/>
+
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@drawable/ic_more"
+        android:title="@string/more"/>
+
+</menu>

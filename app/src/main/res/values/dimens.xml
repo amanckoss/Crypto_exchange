@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Header_L_size">20sp</dimen>
+    <dimen name="Header_XL_size">24sp</dimen>
+    <dimen name="Header_M_size">18sp</dimen>
+    <dimen name="Header_m_size">16dp</dimen>
+    <dimen name="Header_s_size">12sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

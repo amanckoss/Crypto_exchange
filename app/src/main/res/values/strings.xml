@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Stock Exchange</string>
+    <string name="enter">Вхід до системи</string>
+    <string name="enter_email">Адрес електорнной почти</string>
+    <string name="next">Далі</string>
+    <string name="enter_password">Введіть пароль</string>
+    <string name="password">Пароль:</string>
+    <string name="create_account">Створити аккаунт</string>
+    <string name="data">Введіть свої данні</string>
+    <string name="name">Им\'я</string>
+    <string name="second_name">Фамілія</string>
+    <string name="email">Емейл</string>
+    <string name="stock_exchange">Stock Exchange</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="stock">Ринок</string>
+    <string name="more">Ще</string>
+    <string name="your_email">Емейл</string>
+    <string name="Setting">Налаштування</string>
+    <string name="promotions">Акції</string>
+    <string name="sell_price">Купівлі</string>
+    <string name="buy_price">Продажу</string>
+    <string name="market">Ринок</string>
+    <string name="valet">Гаманець</string>
+    <string name="password_confirmation">Підтвердження паролю:</string>
+
+    <!--    wallet-->
+    <string name="all_money">+%.2f $</string>
+    <string name="General_money">Загальні кошти</string>
+    <string name="invested_funds">Вкладені</string>
+    <string name="Action">Акція</string>
+    <string name="Amount">Кількість</string>
+    <string name="purchase_price">Ціна покупки</string>
+    <string name="input_amount_order">Кількість акцій для ордеру:</string>
+    <string name="dark_mode">Dark mode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
